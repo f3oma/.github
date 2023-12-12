@@ -1,2 +1,2 @@
 # .github
-F3 Omaha Tech &amp; Data Repositories
+Update the profile/README.md to update the team profile
